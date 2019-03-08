@@ -1,5 +1,10 @@
 # Meetups
 
+**26/02/2019 - Jusbrasil Data Meetup #3**
+
+- Big Data com Spark - [@leogamas](https://github.com/leogamas)
+- Agrupamento Fuzzy de bases de alta dimensionalidade e suas implicações - Fernanda Eustáquio
+
 **24/01/2019 - Jusbrasil Data Meetup #2**
 - Processamento de Imagens Médicas - [@paulinhacnn](https://github.com/paulinhacnn)
 - [Ciência de dados & dados públicos: a filosofia por trás da Operação Serenata de Amor?](https://speakerdeck.com/cuducos/ciencia-de-dados-and-dados-publicos-a-filosofia-por-tras-da-operacao-serenata-de-amor) - [@cuducos](https://github.com/cuducos)
