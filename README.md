@@ -3,7 +3,7 @@
 **26/02/2019 - Jusbrasil Data Meetup #3**
 
 - Big Data com Spark - [@leogamas](https://github.com/leogamas)
-- Agrupamento Fuzzy de bases de alta dimensionalidade e suas implicações - Fernanda Eustáquio
+- Agrupamento Fuzzy de bases de alta dimensionalidade e suas implicações - [@fernandase](https://github.com/fernandase)
 
 **24/01/2019 - Jusbrasil Data Meetup #2**
 - Processamento de Imagens Médicas - [@paulinhacnn](https://github.com/paulinhacnn)
