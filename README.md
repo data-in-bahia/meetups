@@ -1,5 +1,10 @@
 # Meetups
 
+**22/03/2019 - Jusbrasil Data Meetup #3**
+
+- Ciência de Dados: insights da academia para a comunidade - [Anderson Ara](www.mwstat.com/andersonara/)
+- Matemática e Negócios - [@camilotelles](https://github.com/camilotelles)
+
 **26/02/2019 - Jusbrasil Data Meetup #3**
 
 - Big Data com Spark - [@leogamas](https://github.com/leogamas)
